@@ -1,4 +1,5 @@
-# Set of DataCemp certificates
+# Set of DataCamp courses in progress
+
 
 | Course | Platform | Progress (%) | Certificate | Year |
 | --- | --- | --- | --- | --- |
